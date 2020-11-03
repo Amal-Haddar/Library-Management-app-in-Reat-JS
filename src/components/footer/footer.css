@@ -1,0 +1,22 @@
+.Maclass {
+  text-align: left;
+}
+footer {
+  display: block;
+}
+.c-center .c-bar {
+  display: inline-block;
+  width: auto;
+}
+.c-center {
+  text-align: center !important;
+}
+.c-black,
+.c-hover-black:hover {
+  color: #fff !important;
+  background-color: #000 !important;
+}
+.c-padding-16 {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
